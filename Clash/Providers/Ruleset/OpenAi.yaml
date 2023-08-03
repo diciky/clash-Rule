@@ -2,7 +2,6 @@ payload:
   # 内容：OpenAi
   # 数量：14条
   - DOMAIN-KEYWORD,openai
-  - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,client-api.arkoselabs.com
